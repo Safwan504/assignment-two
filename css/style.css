@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.logo-image {
+    width: 30%;
+}
+.logo-image img{
+    width: 100%;
+}
+
+/* nav li */
+.custom-li{
+    font-weight: 700;
+    font-size: 20px; 
+}
+.custom-banner h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    color: #363958;
+
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 50px;
+    font-weight: 400;
+}
+h5{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 30px;
+    font-weight: 400;
+}
+/* highlight text */
+.orange-color{
+    color: #FABE4C;
+}
+
+.custom-bg{
+    background-color: #FFFBF0;
+}
+
+
+.setcard-height img{
+    padding: 10px;
+    height: 350px;
+    background-color: #e9e5e5;
+    border-radius: 20px;
+}
+.setcard-height{
+    border-radius: 20px;
+    border: 0;
+}
+.image-icon img{
+    width: 80px;
+    padding-left: 1rem;
+}
+
+.custom-card{
+    border-radius: 20px;
+    border: 0;
+}
+.card-custom-footer{
+    border: 0;
+    background-color: #fff;
+    border-radius: 30px;
+}
+.card-custom-footer h5{
+    color:#FABE4C;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h4{
+    font-size: 30px;
+    color: #e0d9d9;
+}
